@@ -1,3 +1,3 @@
 #!/bin/bash
 
-omnicored -conf=/root/bitcoin.conf
+/usr/local/bin/omnicored -conf=/root/bitcoin.conf
